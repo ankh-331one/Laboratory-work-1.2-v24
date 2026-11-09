@@ -9,7 +9,7 @@
 номер, значение аргумента и значение функции с шестью знаками после 
 запятой.
 
-24. y = 1.0/3 * pow(exp(6.3+sqrt(x)),1.0/7)fabs(cos(2.0x/3)-x);
+24. <img width="164" height="45" alt="image" src="https://github.com/user-attachments/assets/5012c963-9192-4b3b-a6e8-89afdb9f9e3d" />
 
 
 
